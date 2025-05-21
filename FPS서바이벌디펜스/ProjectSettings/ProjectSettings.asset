@@ -767,8 +767,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: "FPS\uC11C\uBC14\uC774\uBC8C\uB514\uD39C\uC2A4"
-  metroPackageVersion: 
+  metroPackageName: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -776,7 +776,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: "FPS\uC11C\uBC14\uC774\uBC8C\uB514\uD39C\uC2A4"
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: "FPS\uC11C\uBC14\uC774\uBC8C\uB514\uD39C\uC2A4"
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -844,7 +844,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: d8047edc-2b4c-4a46-aa86-ce5a2cb1d7c8
   framebufferDepthMemorylessMode: 0
